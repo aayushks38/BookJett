@@ -1,0 +1,101 @@
+/* Reset */
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+/* Body */
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:white;
+}
+
+
+header{
+    padding:20px 60px;
+}
+
+
+.top-header{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+}
+
+
+
+.logo{
+    font-size:45px;
+    font-weight:bold;
+}
+
+
+.search-section{
+    display:flex;
+    align-items:center;
+    gap:30px;
+}
+
+
+.search-box{
+    display:flex;
+    align-items:center;
+    width:400px;
+    padding:12px 18px;
+    border:2px solid #dcdcdc;
+    border-radius:30px;
+    background:white;
+}
+
+.search-box i{
+    color:gray;
+    margin-right:10px;
+}
+
+
+.search-box input{
+    border:none;
+    outline:none;
+    width:100%;
+    font-size:16px;
+    background:transparent;
+}
+
+.icons{
+    display:flex;
+    gap:25px;
+    font-size:22px;
+    cursor:pointer;
+}
+
+.icons i:hover{
+    color:#ff9900;
+}
+
+
+nav{
+    margin-top:30px;
+}
+
+
+nav ul{
+    display:flex;
+    justify-content:center;
+    gap:45px;
+    list-style:none;
+}
+
+nav a{
+    text-decoration:none;
+    color:black;
+    font-size:19px;
+    font-weight:500;
+    transition:.3s;
+}
+
+nav a:hover{
+    color:#ff9900;
+}
