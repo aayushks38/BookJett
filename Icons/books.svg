@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"
+fill="none" stroke="currentColor" stroke-width="2.5"
+stroke-linecap="round" stroke-linejoin="round">
+
+<rect x="10" y="14" width="10" height="36" rx="2"/>
+<rect x="24" y="12" width="12" height="38" rx="2"/>
+<path d="M42 18l10-2v34l-10 2z"/>
+
+<line x1="14" y1="22" x2="18" y2="22"/>
+<line x1="28" y1="20" x2="32" y2="20"/>
+<line x1="46" y1="24" x2="50" y2="23"/>
+
+</svg>
