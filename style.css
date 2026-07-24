@@ -194,6 +194,9 @@ nav a:hover{
     justify-content: space-evenly;
     align-items: center;
     padding: 30px 20px;
+    gap: 40px;
+    padding: 30px 40px;
+    flex-wrap: nowrap
 }
 
 .category{
