@@ -10,7 +10,7 @@ BookJett is a personal learning project where I'm building a complete bookstore 
 
 - HTML5
 - CSS3
-- JavaScript (Coming Soon)
+- JavaScript
 - Font Awesome
 
 ## 📅 Development Progress
