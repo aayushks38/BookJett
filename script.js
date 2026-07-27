@@ -264,7 +264,7 @@ const books = [
     title: "Charlotte's Web",
     author: "E.B. White",
     price: 399,
-    image: "Books/charlottesweb.jpg",
+    image: "Books/charlottesweb.png",
     category: "children"
     },
 
