@@ -290,6 +290,37 @@ const books = [
         price: 299,
         image: "Books/gruffalo.jpg",
         category: "children"
+    },
+    {
+    title: "Bhagavad Gita",
+    author: "Vyasa",
+    price: 399,
+    image: "Books/bhagavadgita.jpg",
+    category: "spiritual"
+    },
+
+    {
+        title: "Ramayana",
+        author: "Valmiki",
+        price: 599,
+        image: "Books/ramayana.jpg",
+        category: "spiritual"
+    },
+
+    {
+        title: "The Holy Bible",
+        author: "Various Authors",
+        price: 699,
+        image: "Books/bible.jpg",
+        category: "spiritual"
+    },
+
+    {
+        title: "The Dhammapada",
+        author: "Gautama Buddha",
+        price: 349,
+        image: "Books/dhammapada.jpg",
+        category: "spiritual"
     }
 
 ];
@@ -321,7 +352,7 @@ function displayBooks(category){
 displayBooks("manga");
 displayBooks("best-seller");
 displayBooks("fiction");
-displayBooks("comic");
+displayBooks("spiritual");
 displayBooks("children");
 displayBooks("new-arrivals");
 displayBooks("international");
